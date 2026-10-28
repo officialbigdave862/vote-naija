@@ -1,0 +1,49 @@
+SAFEVOTE NIGERIA
+DIGITAL VOTING RESEARCH PROPOSAL
+Draft for institutional review | Demonstration only
+
+1. EXECUTIVE SUMMARY
+SafeVote Nigeria is an independent concept exploring whether carefully governed digital technology could support accessible, transparent and trustworthy electoral participation in Nigeria. This document requests review and guidance; it does not claim endorsement by INEC or propose immediate live deployment.
+
+2. PROBLEM STATEMENT
+Electoral participation depends on public trust, accessibility, privacy, security and credible processes for resolving disputes. Any digital voting approach must be assessed against the specific legal, operational and safety requirements of Nigerian elections, including risks to voters who may face intimidation or coercion.
+
+3. PROPOSED CONCEPT
+The prototype illustrates a neutral digital interface and a fictional sample ballot. A future research programme could assess identity and eligibility controls, ballot secrecy, accessibility, system integrity, auditability, incident response and support for voters. The current website does not authenticate voters, store ballots, transmit votes or produce election results.
+
+4. PRINCIPLES
+- Legal authorization and institutional governance before any live use.
+- Ballot secrecy and strict data minimization.
+- Independent security testing and remediation.
+- Accessible, language-aware design and support for digitally excluded voters.
+- Verifiable counting, documented audit procedures and lawful recount/dispute processes.
+- Protection against coercion, vote-buying, impersonation, malware, outages and insider threats.
+- A tested fallback and clear stop conditions.
+- Public transparency without disclosing sensitive security details.
+
+5. RISKS REQUIRING EXPERT REVIEW
+Remote voting may expose voters to coercion outside controlled polling environments, compromised devices, credential theft, denial-of-service attacks, identity fraud, privacy breaches and challenges to the integrity or verifiability of results. These risks cannot be resolved by a website interface alone. The model and any proposed use must be assessed by electoral, legal, accessibility, privacy and cybersecurity experts.
+
+6. PROPOSED STAGES
+Stage 1 — Discovery and legal review: define the problem, review applicable electoral law and identify institutional requirements.
+Stage 2 — Independent design review: threat modelling, privacy impact assessment, accessibility research and stakeholder consultation.
+Stage 3 — Closed test environment: use fictional test identities and ballots to assess usability, reliability, security and audit processes.
+Stage 4 — Controlled evaluation: proceed only if formally authorized, independently supervised and supported by a fallback plan. No real election use is assumed or authorized by this proposal.
+
+7. EVALUATION MEASURES
+Potential measures include task completion and accessibility, system availability, security findings and remediation, audit reproducibility, privacy compliance, incident response performance, voter understanding and stakeholder feedback. Thresholds should be agreed with the relevant authorities before testing.
+
+8. BUDGET AND TIMELINE
+A credible budget and schedule should be developed only after scoping with the relevant authority and independent specialists. This draft does not invent a cost, procurement commitment or deployment date.
+
+9. REQUEST TO INEC
+We respectfully request that INEC review the concept, advise on relevant legal and technical requirements, and indicate whether a research discussion or controlled non-election demonstration would be appropriate. SafeVote Nigeria is not affiliated with, approved by or endorsed by INEC.
+
+10. CURRENT STATUS AND LIMITATIONS
+This is an independent research prototype. It uses fictional candidates and client-side demonstration behaviour only. It does not collect personal information, authenticate voters, record or transmit real votes, secure an election, or provide official results. It must not be used for an actual election.
+
+Prepared by: SafeVote Nigeria project proposer
+Contact details: To be supplied by the proposer
+Date: To be supplied
+
+END OF DRAFT
